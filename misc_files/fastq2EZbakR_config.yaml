@@ -44,7 +44,7 @@ control_samples: ['WTctl']
 PE: True
 
 # location of annotation gtf file
-annotation: ../pipeline_workshop/annotations/chr21.gtf
+annotation: ../pipeline_workshop/annotation/chr21.gtf
 
 # location of genome fasta file
 genome: ../pipeline_workshop/genome/chr21.fasta
