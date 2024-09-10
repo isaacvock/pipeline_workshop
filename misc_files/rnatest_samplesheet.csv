@@ -1,4 +1,4 @@
 sample,fastq_1,fastq_2,strandedness
-WT_1,/home/iwv2/palmer_scratch/bamfiles/dcp2/WT1/WT1_read1.fastq.gz,/home/iwv2/palmer_scratch/bamfiles/dcp2/WT1/WT1_read2.fastq.gz,reverse
-WT_2,/home/iwv2/palmer_scratch/bamfiles/dcp2/WT2/WT2_read1.fastq.gz,/home/iwv2/palmer_scratch/bamfiles/dcp2/WT2/WT2_read2.fastq.gz,reverse
-WT_ctl,/home/iwv2/palmer_scratch/bamfiles/dcp2/WTctl/WTctl_read1.fastq.gz,/home/iwv2/palmer_scratch/bamfiles/dcp2/WTctl/WTctl_read2.fastq.gz,reverse
+WT_1,../pipeline_workshop/WT1/WT1_test_R1.fastq.gz,../pipeline_workshop/WT1/WT1_test_R2.fastq.gz,reverse
+WT_2,../pipeline_workshop/WT2/WT2_test_R1.fastq.gz,../pipeline_workshop/WT2/WT2_test_R2.fastq.gz,reverse
+WT_ctl,../pipeline_workshop/WTctl/WTctl_test_R2.fastq.gz,../pipeline_workshop/WTctl/WTctl_test_R2.fastq.gz,reverse
