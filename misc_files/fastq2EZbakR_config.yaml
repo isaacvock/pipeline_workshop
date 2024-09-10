@@ -195,7 +195,7 @@ fc_exonbins_extra: "--primary"
 fc_eej_extra: ""
 fc_eij_extra: ""
 junction_annotation_params: ""
-run_rsem: True
+run_rsem: False
 lowRAM: False
 
 ##### STAR PARAMETERS #####
